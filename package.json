@@ -1,7 +1,7 @@
 {
-  "name": "1tronicswap-uikit",
-  "version": "1.0.0",
-  "description": "uikit for 1tronicswap webapp",
+  "name": "@1tronicswap/uikit",
+  "version": "1.0.1",
+  "description": "uikit for 1tronicswap",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,13 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/1tronicswap/1tronicswap-uikit.git"
   },
-  "keywords": [
-    "uikit"
-  ],
-  "author": "mike26",
+  "author": "Mike26",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/1tronicswap/1tronicswap-uikit/issues"
   },
-  "homepage": "https://github.com/1tronicswap/1tronicswap-uikit#readme"
+  "homepage": "https://github.com/1tronicswap/1tronicswap-uikit#readme",
+  "keywords": [
+    "responsif",
+    "template"
+  ]
 }
